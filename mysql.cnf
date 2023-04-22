@@ -1,0 +1,6 @@
+[client]
+database = payrollapp
+host = localhost
+user = root
+password = Data@2021
+default-character-set = utf8
